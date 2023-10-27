@@ -12,3 +12,4 @@ The `Makefile` commands are:
 See:
 * https://pkg.go.dev/golang.org/x/mobile/cmd/gomobile
 * https://github.com/ios-control/ios-deploy
+* https://reintech.io/blog/an-introduction-to-gos-x-mobile-package-building-mobile-apps
